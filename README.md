@@ -39,6 +39,7 @@ The Digital Safe comes with a mechanical key that you can use to manually unlock
 
 ### Door Operations
 To Simulate real world action of opening and closing the door, the buttons Open Door and Close Door can be used.
+
 ![door](https://user-images.githubusercontent.com/55064602/147308932-6e7ee164-a242-4d33-b602-4f9778df6c0a.png)
 
 
