@@ -27,7 +27,8 @@ The Keypad is how you interact with the digital safe. You can perform different 
     - Confirm the pin by entering it again.
 
 ### Safe Status
-The Safe status informs the user about the current pin of the system and the current status of the door(Open or Closed).
+The Safe status informs the user about the current pin of the system and the current status of the door and the lock.
+
 ![status](https://user-images.githubusercontent.com/55064602/147308912-1f7b3107-2ba3-427d-8de2-7256453625bb.png)
 
 ### Mechanical Key
